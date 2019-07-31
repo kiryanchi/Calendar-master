@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calendar</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_bottom_nav_">Bottom_nav_Activity</string>
+</resources>
